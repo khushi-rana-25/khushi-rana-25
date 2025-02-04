@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-rana-25&size_weight=0.5&count_weight=0.5&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?username=khushi-rana-25)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=khushi-rana-25&theme=nightowl)](https://git.io/streak-stats)
